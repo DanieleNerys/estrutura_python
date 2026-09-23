@@ -1,3 +1,15 @@
+# criar função
+
+def biscoito():
+    x = "esta  com fome!"
+    print("Joca" , x)
+
+biscoito()
+biscoito()
+biscoito()
+
+
+
 print ("Olá" + "Mundo")
 print (5+10)
 
